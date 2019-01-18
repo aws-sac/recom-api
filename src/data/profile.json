@@ -1,0 +1,37 @@
+[
+  {
+    "calories": 402.0,
+    "title": "Ricotta Pizza Pie",
+    "type": "breakfast"
+  },
+  {
+    "calories": 208.0,
+    "title": "Quark (Sour Fresh Cheese)",
+    "type": "snack1"
+  },
+  {
+    "calories": 552.0,
+    "title": "Corned Beef and Coleslaw Sandwich",
+    "type": "lunch"
+  },
+  {
+    "calories": 208.0,
+    "title": "Quark (Sour Fresh Cheese)",
+    "type": "snack2"
+  },
+  {
+    "calories": 97.0,
+    "title": "Cornmeal Bao With Turkey and Black Pepper Sauce",
+    "type": "dinner"
+  },
+  {
+    "calories": 330.0,
+    "title": "Chocolate Currant Cake with Tangy Chocolate Frosting",
+    "type": "dessert"
+  },
+  {
+    "calories": 117.0,
+    "title": "Spiced Cider Cup",
+    "type": "drink"
+  }
+]
